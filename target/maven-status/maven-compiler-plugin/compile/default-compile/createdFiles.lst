@@ -1,0 +1,9 @@
+ua\lviv\iot\models\FoodContainers.class
+ua\lviv\iot\Main.class
+ua\lviv\iot\manager\Manager.class
+ua\lviv\iot\models\BreadBins.class
+ua\lviv\iot\models\GoodsInfo.class
+ua\lviv\iot\models\Thermoses.class
+ua\lviv\iot\manager\impl\IGoodsManager.class
+ua\lviv\iot\manager\Writer.class
+ua\lviv\iot\manager\Text.class
